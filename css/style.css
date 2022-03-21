@@ -1,0 +1,13 @@
+body {
+    background: #181A1B;
+}
+
+#player {
+    pointer-events: none;
+    position: absolute;
+    margin: 0 auto;
+}
+
+iframe {
+    pointer-events: none;
+}
