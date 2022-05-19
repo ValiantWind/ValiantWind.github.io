@@ -2,7 +2,7 @@
 
 
 Page Index:
-|  Page Link                          | Description                                    | Extra Noye |
+|  Page Link                          | Description                                    | Extra Note |
 | ------------- |:-------------:| -----:|
 | https://valiantwind.me             | Base Domain (Ignore)                             |  N/A  |
 | https://valiantwind.me/portfolio    | My Portfolio                                   |  N/A  |
