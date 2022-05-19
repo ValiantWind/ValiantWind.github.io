@@ -1,2 +1,2 @@
-:language = "html"
+language = "html"
 run = "npm start"
