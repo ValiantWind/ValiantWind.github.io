@@ -2,7 +2,7 @@
     background: #181A1B;
 } */
 
-#player {
+/* #player {
     pointer-events: none;
     position: absolute;
     margin: 0 auto;
@@ -12,11 +12,15 @@ iframe {
     pointer-events: none;
     allow="fullscreen";
 }
-
+ */
 #myVideo {
-  position: fixed;
-  right: 0;
+  position: fixed; 
+  right: 0; 
   bottom: 0;
-  min-width: 100%;
+  min-width: 100%; 
   min-height: 100%;
+  width: auto; 
+  height: auto; 
+  z-index: -100;
+  background-size: cover;
 }
