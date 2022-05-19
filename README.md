@@ -11,6 +11,8 @@ Page Index:
 | https://valiantwind.me/profile      | Redirects to my Roblox  Profile                |  N/A  |
 | https://valiantwind.me/invite       | Invite Link to my Discord Server               |  N/A  |
 | https://valiantwind.me/talent-hub   | Redirects to my Roblox Talent Hub Profile      |  Must be logged in to the Talent Hub to view|
+| https://valiantwind.me/reddit   | Redirects to my Reddit Profile   | N/A |
+| https://valiantwind.me/guilded   | Redirects to my Guilded Profile   | N/A |
 | https://valiantwind.me/blog         | My Blog |  N/A  |
 | https://valiantwind.me/discord     | Redirects to my Discord Profile |  Must be logged into Discord to view  |
 | https://valiantwind.me/devforum     | Redirects to my Roblox Developer Forum Profile |  N/A  |
