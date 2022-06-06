@@ -11,7 +11,7 @@
 | https://valiantwind.me/talent-hub | Redirects to my Roblox Talent Hub Profile | Must be logged in to the Talent Hub to view|
 | https://valiantwind.me/reddit | Redirects to my Reddit Profile | N/A |
 | https://valiantwind.me/guilded | Redirects to my Guilded Profile | N/A |
-| https://valiantwind.me/blog | My Blog | N/A |
+| https://valiantwind.me/guilded-bot | Redirects to a showcase of my WIP Guilded.gg bot. | N/A |
 | https://valiantwind.me/discord | Redirects to my Discord Profile | Must be logged into Discord to view |
 | https://valiantwind.me/devforum | Redirects to my Roblox Developer Forum Profile | N/A |
 | https://valiantwind.me/RobloxPlayerLauncher.exe | Downloads the Roblox Application | Doesn't contain a virus or anything malicious. Its the exact same client you download from the official Roblox Website. |
