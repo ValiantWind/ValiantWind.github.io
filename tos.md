@@ -6,7 +6,7 @@ Anyway, ***please read the following properly***.
 
 ## Payment Terms
 
-- Robux Only.
+- Payment is through robux only. (I seriously can't accept payment in USD. I don't have a credit card or anything. Please understand that.)
 
 - I accept payment through group funds, gamepasses, and clothing.
 
