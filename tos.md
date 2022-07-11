@@ -1,6 +1,6 @@
 # Terms of Service for Commissioning with Me
 
-I never thought I'd have to make a Terms of Service until I got scammed for the first time recently. 
+I never thought I'd have to make a Terms of Service anytime soon until I got scammed for the first time recently. 
 
 Anyway, ***please read the following properly***.
 
