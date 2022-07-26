@@ -8,7 +8,7 @@ Anyway, ***please read the following properly***.
 
 - Payment is through robux only. (I seriously can't accept payment in USD. I don't have a credit card or anything. Please understand that.)
 
-- I accept payment through group funds, gamepasses, and clothing.
+- I accept payment through group funds or gamepasses.
 
 - IF YOU CHOOSE TO PAY THROUGH A GAMEPASS, YOU MUST COVER THE 30% TAX. (For some reason people tend to not see this one).
 
@@ -22,7 +22,7 @@ Anyway, ***please read the following properly***.
 
 - I reserve the right to cancel the commission at any time for any reason without penalty. I'm not obliged to give you the reason for canceling either.
 - When I cancel a commission, which doesn't happen often, the reason will always be serious. I will never cancel a commission for no reason.
-- If you were to scam me in anyway, I will open source the project you commissioned me. I will also do several other things that you won't be happy with. Don't scam me, and everything will be fine. :)
+- If you were to scam me in any way, I will open source the project you commissioned me. I will also do several other things that you won't be happy with. Don't scam me, and everything will be fine. :)
 
 If you have any questions about the Terms above, please let me know.
 
