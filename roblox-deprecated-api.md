@@ -7,6 +7,7 @@ This topic is created simply for convenience.
 ### Note: This list is entirely based on the API Reference Manual. If the API Reference Manual didn't record a deprecated item, let me know and I'll add it.
 
 ***
+
 ## Deprecated Classes
 
 ### A
@@ -15,7 +16,6 @@ This topic is created simply for convenience.
 
 ### B
 - [BodyAngularVelocity](https://create.roblox.com/docs/reference/engine/classes/BodyAngularVelocity) 
-
   * Superseded by [AngularVelocity](https://create.roblox.com/docs/reference/engine/classes/AngularVelocity)
 - [BodyForce](https://create.roblox.com/docs/reference/engine/classes/BodyForce) 
   * Superseded by [VectorForce](https://create.roblox.com/docs/reference/engine/classes/VectorForce)
@@ -31,17 +31,17 @@ This topic is created simply for convenience.
 - [CustomEvent](https://create.roblox.com/docs/reference/engine/classes/CustomEvent) and [CustomEventReceiver](https://create.roblox.com/docs/reference/engine/classes/CustomEventReceiver) 
   * Use [BindableEvents](https://create.roblox.com/docs/reference/engine/classes/BindableEvent) instead
 - [CylinderMesh](https://create.roblox.com/docs/reference/engine/classes/CylinderMesh)
-***
 
+***
 
 ### D
 - [DoubleConstrainedValue](https://create.roblox.com/docs/reference/engine/classes/DoubleConstrainedValue) 
+ * Use [math.clamp](https://create.roblox.com/docs/reference/engine/libraries/math#clamp) instead
 
-  * Use [math.clamp](https://create.roblox.com/docs/reference/engine/libraries/math#clamp) instead
 ***
+
 ### F
 - [Flag](https://create.roblox.com/docs/reference/engine/classes/Flag) 
-
   * You need to create your own flag now
 - [FlagStand](https://create.roblox.com/docs/reference/engine/classes/FlagStand) 
   * You need to Create your own flag stand now
@@ -51,35 +51,40 @@ This topic is created simply for convenience.
 - All FormFactorProperties
 - [FunctionalTest](https://create.roblox.com/docs/reference/engine/classes/FunctionalTest) 
   * Use [TestService](https://create.roblox.com/docs/reference/engine/classes/TestService) instead
+
 ***
+
 ### G
 - [GamePassService](https://create.roblox.com/docs/reference/engine/classes/GamePassService) 
-
   * Use [MarketplaceService](https://create.roblox.com/docs/reference/engine/classes/MarketplaceService) instead
 - [Glue](https://create.roblox.com/docs/reference/engine/classes/Glue) 
   * Use [BallSocketConstraint](https://create.roblox.com/docs/reference/engine/classes/BallSocketConstraint) as a partial replacement
 - [GuiMain](https://create.roblox.com/docs/reference/engine/classes/GuiMain) 
   * Original Name For [ScreenGui](https://create.roblox.com/docs/reference/engine/classes/ScreenGui) which you should use instead.
+
 ***
 ### H
 - [Hint](https://create.roblox.com/docs/reference/engine/classes/Hint) 
-
   * Use [TextLabels](https://create.roblox.com/docs/reference/engine/classes/TextLabel) instead
 - [Hole](https://create.roblox.com/docs/reference/engine/classes/Hole) (No replacement)
 - [Hopper](https://create.roblox.com/docs/reference/engine/classes/Hopper) 
   * Use [StarterPack](https://create.roblox.com/docs/reference/engine/classes/StarterPack) instead
 - [HopperBin](https://create.roblox.com/docs/reference/engine/classes/HopperBin) 
   * Use [Tools](https://create.roblox.com/docs/reference/engine/classes/Tool) instead
+
 ***
 ### I
 - [IntConstrainedValue](https://create.roblox.com/docs/reference/engine/classes/IntConstrainedValue) 
 
   * Use [math.clamp](https://create.roblox.com/docs/reference/engine/libraries/math#clamp) instead
+
 ***
+
 ### J
 - [JointsService](https://create.roblox.com/docs/reference/engine/classes/JointsService) 
 
   * Use [Constraints and Attachments](https://create.roblox.com/docs/building-and-visuals/physics/mechanical-constraints)
+
  ***
 ### M
 - [ManualGlue](https://create.roblox.com/docs/reference/engine/classes/ManualGlue)
@@ -92,6 +97,7 @@ This topic is created simply for convenience.
 - [Message](https://create.roblox.com/docs/reference/engine/classes/Message) 
   * Use [TextLabels](https://create.roblox.com/docs/reference/engine/classes/TextLabel) instead
 - [MotorFeature](https://create.roblox.com/docs/reference/engine/classes/MotorFeature) (No Replacement)
+
 ***
 ### P
 - [PointsService](https://create.roblox.com/docs/reference/engine/classes/PointsService) (Why :( ) (No replacement)
@@ -149,7 +155,7 @@ This topic is created simply for convenience.
 ## Deprecated EnumItems
 
 ### G
-- [GearGenreSetting.AllGenres](https://robloxapi.github.io/ref/enum/GearGenreSetting.html#member-AllGenres) (https://robloxapi.github.io/ref/enum/GearGenreSetting.html#member-MatchingGenreOnly)
+- [GearGenreSetting.AllGenres](https://robloxapi.github.io/ref/enum/GearGenreSetting.html#member-AllGenres)
 - [GearType.BuildingTools](https://robloxapi.github.io/ref/enum/GearType.html#member-BuildingTools)
 - [GearType.Explosives](https://robloxapi.github.io/ref/enum/GearType.html#member-Explosives)
 - [GearType.MeleeWeapons](https://robloxapi.github.io/ref/enum/GearType.html#member-MeleeWeapons)
@@ -546,10 +552,12 @@ https://create.roblox.com/docs/reference/engine/classes/DebuggerManager#StepOver
 - [WorldRoot.IsRegion3EmptyWithIgnoreList](https://create.roblox.com/docs/reference/engine/classes/WorldRoot#IsRegion3EmptyWithIgnoreList)
   * Use [WorldRoot:GetPartBoundsInBox()](https://create.roblox.com/docs/reference/engine/classes/WorldRoot#GetPartBoundsInBox) along with [OverlapParams](https://create.roblox.com/docs/reference/engine/datatypes/OverlapParams) instead
 ***
+
 ## Deprecated Properties
+
 ### A
 - [AnalyticsService.ApiKey](https://robloxapi.github.io/ref/class/AnalyticsService.html#member-ApiKey)
-<br>
+
 - Attachment
      - [Rotation](https://robloxapi.github.io/ref/class/Attachment.html#member-Rotation)
      - [WorldRotation](https://robloxapi.github.io/ref/class/Attachment.html#member-WorldRotation)
@@ -580,25 +588,25 @@ https://create.roblox.com/docs/reference/engine/classes/DebuggerManager#StepOver
      - [TopSurfaceInput](https://robloxapi.github.io/ref/class/BasePart.html#member-TopSurfaceInput)
      - [Velocity](https://robloxapi.github.io/ref/class/BasePart.html#member-Velocity)
      - [brickColor](https://robloxapi.github.io/ref/class/BasePart.html#member-brickColor)
-<br>
+
 - BodyAngularVelocity
      - [angularvelocity](https://robloxapi.github.io/ref/class/BodyAngularVelocity.html#member-angularvelocity)
      - [maxTorque](https://robloxapi.github.io/ref/class/BodyAngularVelocity.html#member-maxTorque)
-<br>
+
 - [BodyForce.force](https://robloxapi.github.io/ref/class/BodyForce.html#member-force)
-<br>
+
 - BodyGyro
      - [cframe](https://robloxapi.github.io/ref/class/BodyGyro.html#member-cframe)
      - [maxTorque](https://robloxapi.github.io/ref/class/BodyGyro.html#member-maxTorque)
-<br>
+
 - BodyPosition
      - [maxForce](https://robloxapi.github.io/ref/class/BodyPosition.html#member-maxForce)
      - [position](https://robloxapi.github.io/ref/class/BodyPosition.html#member-position)
-<br>
+
 - BodyThrust
      - [force](https://robloxapi.github.io/ref/class/BodyThrust.html#member-force)
      - [location](https://robloxapi.github.io/ref/class/BodyThrust.html#member-location)
-<br>
+
 - BodyVelocity
      - [maxForce](https://robloxapi.github.io/ref/class/BodyVelocity.html#member-maxForce)
      - [velocity](https://robloxapi.github.io/ref/class/BodyVelocity.html#member-velocity)
@@ -615,33 +623,36 @@ https://create.roblox.com/docs/reference/engine/classes/DebuggerManager#StepOver
      - [VIPServerOwnerId](https://robloxapi.github.io/ref/class/DataModel.html#member-VIPServerOwnerId)
      - [lighting](https://robloxapi.github.io/ref/class/DataModel.html#member-lighting)
      - [workspace](https://robloxapi.github.io/ref/class/DataModel.html#member-workspace)  
-<br>
+
 - [DataStoreService.LegacyNamingScheme](https://robloxapi.github.io/ref/class/DataStoreService.html#member-LegacyNamingScheme)
-<br>
+
 - [Debris.MaxItems](https://robloxapi.github.io/ref/class/Debris.html#member-MaxItems)
-<br>
+
 - Decal
      - [Shiny](https://robloxapi.github.io/ref/class/Decal.html#member-Shiny)
      - [Specular](https://robloxapi.github.io/ref/class/Decal.html#member-Specular)
+
 ### F
 - [Fire.size](https://robloxapi.github.io/ref/class/Fire.html#member-size)
-<br>
+
 - FormFactorPart
      - [FormFactor](https://robloxapi.github.io/ref/class/FormFactorPart.html#member-FormFactor)
      - [formFactor](https://robloxapi.github.io/ref/class/FormFactorPart.html#member-formFactor)
+
 ### G
 - [GuiBase2d.Localize](https://robloxapi.github.io/ref/class/GuiBase2d.html#member-Localize)
-<br>
+
 - [GuiBase3d.Color](https://robloxapi.github.io/ref/class/GuiBase3d.html#member-Color)
-<br>
+
 - GuiObject
      - [BackgroundColor](https://robloxapi.github.io/ref/class/GuiObject.html#member-BackgroundColor)
      - [BorderColor](https://robloxapi.github.io/ref/class/GuiObject.html#member-BorderColor)
      - [Draggable](https://robloxapi.github.io/ref/class/GuiObject.html#member-Draggable)
-<br>
+
 - GuiService
      - [IsModalDialog](https://robloxapi.github.io/ref/class/GuiService.html#member-IsModalDialog)
      - [IsWindows](https://robloxapi.github.io/ref/class/GuiService.html#member-IsWindows)
+
 ### H
 - Humanoid
      - [CollisionType](https://robloxapi.github.io/ref/class/Humanoid.html#member-CollisionType)
@@ -652,32 +663,36 @@ https://create.roblox.com/docs/reference/engine/classes/DebuggerManager#StepOver
 
 ### I
 - [InsertService.AllowInsertFreeModels](https://robloxapi.github.io/ref/class/InsertService.html#member-AllowInsertFreeModels)
-<br>
+
 - Instance
      - [DataCost](https://robloxapi.github.io/ref/class/Instance.html#member-DataCost)
      - [archivable](https://robloxapi.github.io/ref/class/Instance.html#member-archivable)
      - [className](https://robloxapi.github.io/ref/class/Instance.html#member-className)
+
 ### J
 - [JointInstance.part1](https://robloxapi.github.io/ref/class/JointInstance.html#member-part1)
+
 ### L
 - Lighting
      - [Outlines](https://robloxapi.github.io/ref/class/Lighting.html#member-Outlines)
      - [ShadowColor](https://robloxapi.github.io/ref/class/Lighting.html#member-ShadowColor)
-<br>
+
 - LocalizationTable
      - [DevelopmentLanguage](https://robloxapi.github.io/ref/class/LocalizationTable.html#member-DevelopmentLanguage)
      - [Root](https://robloxapi.github.io/ref/class/LocalizationTable.html#member-Root)
+
 ### M
 - [MeshPart.MeshID](https://robloxapi.github.io/ref/class/MeshPart.html#member-MeshID)
-<br>
+
 - Mouse
      - [hit](https://robloxapi.github.io/ref/class/Mouse.html#member-hit)
-     - [target](https://robloxapi.github.io/ref/class/Mouse.html#member-target)
+     - [target](https://robloxapi.github.io/ref/class/Mouse.html#member-target)|
+
 ### P
 - [ParticleEmitter.VelocitySpread](https://robloxapi.github.io/ref/class/ParticleEmitter.html#member-VelocitySpread)
-<br>
+
 - [PathfindingService.EmptyCutoff](https://robloxapi.github.io/ref/class/PathfindingService.html#member-EmptyCutoff)
-<br>
+
 - Player
      - [AppearanceDidLoad](https://robloxapi.github.io/ref/class/Player.html#member-AppearanceDidLoad)
      - [CharacterAppearance](https://robloxapi.github.io/ref/class/Player.html#member-CharacterAppearance)
@@ -685,59 +700,63 @@ https://create.roblox.com/docs/reference/engine/classes/DebuggerManager#StepOver
      - [DataComplexityLimit](https://robloxapi.github.io/ref/class/Player.html#member-DataComplexityLimit)
      - [DataReady](https://robloxapi.github.io/ref/class/Player.html#member-DataReady)
      - [userId](https://robloxapi.github.io/ref/class/Player.html#member-userId)
-<br>
+
 - Players
      - [NumPlayers](https://robloxapi.github.io/ref/class/Players.html#member-NumPlayers)
      - [localPlayer](https://robloxapi.github.io/ref/class/Players.html#member-localPlayer)
      - [numPlayers](https://robloxapi.github.io/ref/class/Players.html#member-numPlayers)
-<br>
+
 - [Pose.MaskWeight](https://robloxapi.github.io/ref/class/Pose.html#member-MaskWeight)
+
 ### S
 - [SelectionBox.SurfaceColor](https://robloxapi.github.io/ref/class/SelectionBox.html#member-SurfaceColor)
-<br>
+
 - [SelectionSphere.SurfaceColor](https://robloxapi.github.io/ref/class/SelectionSphere.html#member-SurfaceColor)
-<br>
+
 - Sound
      - [EmitterSize](https://robloxapi.github.io/ref/class/Sound.html#member-EmitterSize)
      - [MaxDistance](https://robloxapi.github.io/ref/class/Sound.html#member-MaxDistance)
      - [MinDistance](https://robloxapi.github.io/ref/class/Sound.html#member-MinDistance)
      - [Pitch](https://robloxapi.github.io/ref/class/Sound.html#member-Pitch)
      - [isPlaying](https://robloxapi.github.io/ref/class/Sound.html#member-isPlaying)
-<br>
+
 - [StarterGui.ResetPlayerGuiOnSpawn](https://robloxapi.github.io/ref/class/StarterGui.html#member-ResetPlayerGuiOnSpawn)
-<br>
+
 - [Studio.UI Theme](https://robloxapi.github.io/ref/class/Studio.html#member-UI%2520Theme)
-<br>
+
 ### T
 - Team
      - [AutoColorCharacters](https://robloxapi.github.io/ref/class/Team.html#member-AutoColorCharacters)
      - [Score](https://robloxapi.github.io/ref/class/Team.html#member-Score)
-<br>
-- T[eleportService.CustomizedTeleportUI](https://robloxapi.github.io/ref/class/TeleportService.html#member-CustomizedTeleportUI)
-<br>
+
+- [TeleportService.CustomizedTeleportUI](https://robloxapi.github.io/ref/class/TeleportService.html#member-CustomizedTeleportUI)
+
 - [Terrain.IsSmooth](https://robloxapi.github.io/ref/class/Terrain.html#member-IsSmooth)
-<br>
+
 - [TerrainRegion.IsSmooth](https://robloxapi.github.io/ref/class/TerrainRegion.html#member-IsSmooth)
-<br>
+
 - TextBox
      - [FontSize](https://robloxapi.github.io/ref/class/TextBox.html#member-FontSize)
      - [TextColor](https://robloxapi.github.io/ref/class/TextBox.html#member-TextColor)
      - [TextWrap](https://robloxapi.github.io/ref/class/TextBox.html#member-TextWrap)
-<br>
+
 - TextLabel
      - [FontSize](https://robloxapi.github.io/ref/class/TextLabel.html#member-FontSize)
      - [TextWrap](https://robloxapi.github.io/ref/class/TextLabel.html#member-TextWrap)
-<br>
+
 - [TorsionSpringConstraint.LimitEnabled](https://robloxapi.github.io/ref/class/TorsionSpringConstraint.html#member-LimitEnabled)
+
 ### U
 - UserInputService
      - [ModalEnabled](https://robloxapi.github.io/ref/class/UserInputService.html#member-ModalEnabled)
      - [UserHeadCFrame](https://robloxapi.github.io/ref/class/UserInputService.html#member-UserHeadCFrame)
+
 ### V
 - [VoiceChatInternal.VoiceChatState](https://robloxapi.github.io/ref/class/VoiceChatInternal.html#member-VoiceChatState)
 
 ### W
 - [Workspace.FilteringEnabled](https://create.roblox.com/docs/reference/engine/classes/Workspace#FilteringEnabled)
+
 ***
 ### Note: This list is subject to change when more things deprecate in the future.
 
