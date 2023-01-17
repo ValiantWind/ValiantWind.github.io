@@ -4,7 +4,10 @@ A list of all the deprecated API, organized by alphabet.
 
 This topic is created simply for convenience. 
 
-### Note: This list is entirely based on the API Reference Manual. If the API Reference Manual didn't record a deprecated item, let me know and I'll add it.
+### Note: This list is entirely based on the API Reference Manual. If there's something I missed or outdated, let me know by replying to my topic on the DevForum and I'll update the topic.
+
+DevForum Topic:
+https://devforum.roblox.com/t/a-list-of-all-deprecated-classes-enums-events-functions-and-properties/1692454/
 
 ***
 
