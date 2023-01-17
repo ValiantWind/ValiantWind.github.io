@@ -162,7 +162,7 @@ https://devforum.roblox.com/t/a-list-of-all-deprecated-classes-enums-events-func
 - [Status](https://create.roblox.com/docs/reference/engine/enums/Status)
     * Status is an unfinished object designed to store custom Humanoid statuses. It has been depreciated and should not be used by developers in new work.  Developers looking to implement custom Humanoid statuses should use [CollectionService](https://create.roblox.com/docs/reference/engine/classes/CollectionService) which provides a more flexible and robust system for tagging objects.
 
-- [SoundType](https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/d20ed8dec60f10822d140438b936852480166d0a)
+- [SoundType](https://robloxapi.github.io/ref/enum/SoundType.html)
 
 ***
 
