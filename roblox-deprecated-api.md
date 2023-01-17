@@ -106,7 +106,9 @@ https://devforum.roblox.com/t/a-list-of-all-deprecated-classes-enums-events-func
 ### P
 - [PointsService](https://create.roblox.com/docs/reference/engine/classes/PointsService) (Why :( ) (No replacement)
 - [Plane](https://create.roblox.com/docs/reference/engine/classes/Plane)  (No replacement)
+
 ***
+
 ### R
 - [RocketPropulsion](https://create.roblox.com/docs/reference/engine/classes/RocketPropulsion) 
 
@@ -114,7 +116,9 @@ https://devforum.roblox.com/t/a-list-of-all-deprecated-classes-enums-events-func
 - [Rotate](https://create.roblox.com/docs/reference/engine/classes/Rotate)
 - [RotateP](https://create.roblox.com/docs/reference/engine/classes/RotateP)
 - [RotateV](https://create.roblox.com/docs/reference/engine/classes/RotateV)
+
 ***
+
 ### S
 - [SelectionPartLasso](https://create.roblox.com/docs/reference/engine/classes/SelectionPartLasso) 
 
@@ -131,7 +135,9 @@ https://devforum.roblox.com/t/a-list-of-all-deprecated-classes-enums-events-func
 - [Speaker](https://create.roblox.com/docs/reference/engine/classes/Speaker)
 - [Status](https://create.roblox.com/docs/reference/engine/classes/Status) 
   * Object made for Custom [Humanoid](https://create.roblox.com/docs/reference/engine/classes/Humanoid) Statuses, but was never finished. It as advised to use CollectionService instead for Custom [Humanoid](https://create.roblox.com/docs/reference/engine/classes/Humanoid) Statuses
+
 ***
+
 ### V
 - [VoiceSource](https://create.roblox.com/docs/reference/engine/classes/VoiceSource)
 
@@ -143,17 +149,21 @@ https://devforum.roblox.com/t/a-list-of-all-deprecated-classes-enums-events-func
 - [GearGenreSetting](https://create.roblox.com/docs/reference/engine/enums/GearGenreSetting) (No replacement)
 - [GearType](https://create.roblox.com/docs/reference/engine/enums/GearType) (No replacement)
 - [Genre](https://create.roblox.com/docs/reference/engine/enums/Genre) (No replacement)
+
 ***
+
 ### P
 - [PriviledgeType](https://create.roblox.com/docs/reference/engine/enums/PrivilegeType) (No replacement)
+
 ***
+
 ### S
 - [SaveFilter](https://create.roblox.com/docs/reference/engine/enums/SaveFilter) (Has no known usage and its purpose is unknown)
 - [Status](https://create.roblox.com/docs/reference/engine/enums/Status)
-
     * Status is an unfinished object designed to store custom Humanoid statuses. It has been depreciated and should not be used by developers in new work.  Developers looking to implement custom Humanoid statuses should use [CollectionService](https://create.roblox.com/docs/reference/engine/classes/CollectionService) which provides a more flexible and robust system for tagging objects.
 
 - [SoundType](https://github.com/MaximumADHD/Roblox-Client-Tracker/commit/d20ed8dec60f10822d140438b936852480166d0a)
+
 ***
 
 ## Deprecated EnumItems
