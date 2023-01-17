@@ -30,6 +30,7 @@ https://devforum.roblox.com/t/a-list-of-all-deprecated-classes-enums-events-func
   * Superseded by [VectorForce](https://create.roblox.com/docs/reference/engine/classes/VectorForce)
 - [BodyVelocity](https://create.roblox.com/docs/reference/engine/classes/BodyVelocity) 
   * Superseded by [LinearVelocity](https://create.roblox.com/docs/reference/engine/classes/LinearVelocity)
+
 ### C
 - [CustomEvent](https://create.roblox.com/docs/reference/engine/classes/CustomEvent) and [CustomEventReceiver](https://create.roblox.com/docs/reference/engine/classes/CustomEventReceiver) 
   * Use [BindableEvents](https://create.roblox.com/docs/reference/engine/classes/BindableEvent) instead
