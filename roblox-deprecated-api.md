@@ -217,6 +217,7 @@ https://devforum.roblox.com/t/a-list-of-all-deprecated-classes-enums-events-func
 - [DataModel.OnClose](https://create.roblox.com/docs/reference/engine/classes/DataModel#OnClose) 
 
   * Use [DataModel:BindToClose](https://create.roblox.com/docs/reference/engine/classes/DataModel#BindToClose) instead
+
 ***
 
 ## Deprecated Events
@@ -226,7 +227,9 @@ https://devforum.roblox.com/t/a-list-of-all-deprecated-classes-enums-events-func
 
   * AdService is entirely deprecated 
 - [AnimationController.AnimationPlayed](https://create.roblox.com/docs/reference/engine/classes/AnimationController#AnimationPlayed)
+
 ***
+
 ### B
 - [BasePart.LocalSimulationTouched](https://create.roblox.com/docs/reference/engine/classes/BasePart#LocalSimulationTouched)
 
@@ -234,30 +237,40 @@ https://devforum.roblox.com/t/a-list-of-all-deprecated-classes-enums-events-func
 - [BasePart.OutfitChanged](https://create.roblox.com/docs/reference/engine/classes/BasePart#OutfitChanged)
 - [BasePart.StoppedTouching](https://create.roblox.com/docs/reference/engine/classes/BasePart#StoppedTouching)
   * Use [BasePart.TouchEnded](https://create.roblox.com/docs/reference/engine/classes/BasePart#TouchEnded) instead
+
 ***
+
 ### C
 - [CollectionService.ItemAdded](https://create.roblox.com/docs/reference/engine/classes/CollectionService#ItemAdded)
 - [CollectionService.ItemRemoved](https://create.roblox.com/docs/reference/engine/classes/CollectionService#ItemRemoved)
+
 ***
+
 ### D
 - [DataModel.AllowGearTypeChanged](https://create.roblox.com/docs/reference/engine/classes/DataModel#AllowedGearTypeChanged)
 - [DataModel.ItemChanged](https://create.roblox.com/docs/reference/engine/classes/DataModel#ItemChanged)
 
   * Use [Instance.Changed](https://create.roblox.com/docs/reference/engine/classes/Instance#Changed) instead
+
 ***
+
 ### G
 - [GuiObject.DragBegin](https://create.roblox.com/docs/reference/engine/classes/GuiObject#DragBegin)
 - [GuiObject.DragStopped](https://create.roblox.com/docs/reference/engine/classes/GuiObject#DragStopped)
 - [GuiService.BrowserWindowClosed](https://create.roblox.com/docs/reference/engine/classes/GuiService#BrowserWindowClosed)
 - [GuiService.ErrorMessageChanged](https://create.roblox.com/docs/reference/engine/classes/GuiService#ErrorMessageChanged)
+
 ***
+
 ### H
 - [Humanoid.AnimationPlayed](https://create.roblox.com/docs/reference/engine/classes/Humanoid#AnimationPlayed)
 - [Humanoid.CustomStatusAdded](https://create.roblox.com/docs/reference/engine/classes/Humanoid#CustomStatusAdded)
 - [Humanoid.CustomStatusRemoved](https://create.roblox.com/docs/reference/engine/classes/Humanoid#CustomStatusRemoved)
 - [Humanoid.StatusAdded](https://create.roblox.com/docs/reference/engine/classes/Humanoid#StatusAdded)
 - [Humanoid.StatusRemoved](https://create.roblox.com/docs/reference/engine/classes/Humanoid#StatusRemoved)
+
 ***
+
 ### M
 - [MarketplaceService.PromptProductPurchaseFinished](https://create.roblox.com/docs/reference/engine/classes/MarketplaceService#PromptProductPurchaseFinished)
 
@@ -266,21 +279,28 @@ https://devforum.roblox.com/t/a-list-of-all-deprecated-classes-enums-events-func
    * Use [UserInputService](https://create.roblox.com/docs/reference/engine/classes/UserInputService) instead
 - [Mouse.KeyUp](https://create.roblox.com/docs/reference/engine/classes/Mouse#KeyUp)
    * Use [UserInputService](https://create.roblox.com/docs/reference/engine/classes/UserInputService) instead
+
 ***
+
 ### P
-- [PlayerGui.TopbarTransparencyChangedSignal](https://create.roblox.com/docs/reference/engine/classes/PlayerGui#TopbarTransparencyChangedSignall)
+- [PlayerGui.TopbarTransparencyChangedSignal](https://create.roblox.com/docs/reference/engine/classes/PlayerGui#TopbarTransparencyChangedSignal)
+
 ***
+
 ### S
 - [SkateboardPlatform.equipped](https://create.roblox.com/docs/reference/engine/classes/SkateboardPlatform#equipped)
 
   * SkateboardPlatform is entirely deprecated
 - [SkateboardPlatform.unequipped](https://create.roblox.com/docs/reference/engine/classes/SkateboardPlatform#unequipped)
-  * SkateboardPlatform is entirely deprecated 
+  * SkateboardPlatform is entirely deprecated
+
 ***
+
 ### V
 - [VoiceChatInternal.ParticipantsStateChanged](https://create.roblox.com/docs/reference/engine/classes/VoiceChatInternal#ParticipantsStateChanged)
 - [VoiceChatInternal.PlayerMicActivitySignalChange](https://create.roblox.com/docs/reference/engine/classes/VoiceChatInternal#PlayerMicActivitySignalChange)
 - [VoiceChatInternal.StateChanged](https://create.roblox.com/docs/reference/engine/classes/VoiceChatInternal#StateChanged)
+
 ***
 
 ## Deprecated Functions
