@@ -1,4 +1,4 @@
-*Last Updated January 17th, 2023*
+*Last Updated February 3rd, 2023*
 
 A list of all the deprecated API, organized by alphabet.
 
@@ -15,6 +15,8 @@ https://devforum.roblox.com/t/a-list-of-all-deprecated-classes-enums-events-func
 
 ### A
 - [AdService](https://create.roblox.com/docs/reference/engine/classes/AdService) (No replacement)
+- [AnalyticsService](https://create.roblox.com/docs/reference/engine/classes/AnalyticsService) 
+  * Meant for those enrolled [the Roblox PlayFab Program](https://devforum.roblox.com/t/join-our-playfab-program-leverage-all-the-data/653420). As far as I know, there is no replacement.
 
 
 ### B
