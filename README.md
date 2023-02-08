@@ -1,10 +1,9 @@
-<a href="https://discord.gg/dom"><img src="img/joinDiscordButton.png"></a>
-
+<a href="https://discord.gg/dom">![discordServerButton](img/joinDiscordButton.png)</a>
 
 ***
 
-
 # Page Index
+
 | Page Link | Description | Extra Note |
 | ------------- |:-------------:| -----:|
 | https://ValiantWind.github.io | Base Domain (Ignore) | N/A |
