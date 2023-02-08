@@ -1,5 +1,9 @@
 <a href="https://discord.gg/dom"><img src="img/joinDiscordButton.png"></a>
-<br>
+
+
+***
+
+
 # Page Index
 | Page Link | Description | Extra Note |
 | ------------- |:-------------:| -----:|
