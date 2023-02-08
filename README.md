@@ -26,4 +26,4 @@
 | https://ValiantWind.github.io/videos/bot-showcase-2.mp4 | A video showcasing my Discord Bot | N/A |
 | https://ValiantWind.github.io/roblox/games/a-flagged-capture | Redirects to my Roblox Game | Must be logged into Roblox to play it |
 | https://ValiantWind.github.io/roblox/tutorials/join-leave-messages | Redirects you to a DevForum Tutorial I made that shows you how to script Join and Leave Messages for your Roblox game. | N/A |
-| https://ValiantWind.github.io/roblox/resources/deprecated-api-list | Redirects you to a DevForum Post that shows an up-to-date list of the all the Deprecated Roblox API. If you see something that's missing, contact me with the new deprecated API along with the link to where it says its deprecated. | www.dontasktoask.com |
+| https://ValiantWind.github.io/roblox-deprecated-api | An up-to-date list of the all the Deprecated Roblox API. If you see something that's missing, contact me with the new deprecated API along with the link to where it says its deprecated. | www.dontasktoask.com |
