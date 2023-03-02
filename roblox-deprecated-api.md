@@ -1,4 +1,4 @@
-*Last Updated February 3rd, 2023*
+*Last Updated Match 2nd, 2023*
 
 A list of all the deprecated API, organized by alphabet.
 
@@ -194,6 +194,9 @@ https://devforum.roblox.com/t/a-list-of-all-deprecated-classes-enums-events-func
 - [MeshType.Pyramid](https://robloxapi.github.io/ref/enum/MeshType.html#member-Pyramid)
 - [MeshType.RightAngleRamp](https://robloxapi.github.io/ref/enum/MeshType.html#member-RightAngleRamp)
 
+### N
+- [NewAnimationRunTimeSetting](https://robloxapi.github.io/ref/enum/NewAnimationRuntimeSetting.html)
+
 ### P
 - [PathStatus.ClosestNoPath](https://robloxapi.github.io/ref/enum/PathStatus.html#member-ClosestNoPath)
 - [PathStatus.ClosestOutOfRange](https://robloxapi.github.io/ref/enum/PathStatus.html#member-ClosestOutOfRange)
@@ -337,11 +340,11 @@ https://devforum.roblox.com/t/a-list-of-all-deprecated-classes-enums-events-func
   * Use [BadgeService:UserHasBadgeAsync()](https://create.roblox.com/docs/reference/engine/classes/BadgeService#UserHasBadgeAsync) instead
 - [BasePart.GetRenderCFrame](https://create.roblox.com/docs/reference/engine/classes/BasePart#GetRenderCFrame)
 - [BasePart.breakJoints](https://create.roblox.com/docs/reference/engine/classes/BasePart#breakJoints) 
-  * Use [BasePart:BreakJoints()](https://create.roblox.com/docs/reference/engine/classes/BasePart#BreakJoints) instead
+- [BasePart:BreakJoints()](https://create.roblox.com/docs/reference/engine/classes/BasePart#BreakJoints)
 - [BasePart.getMass](https://create.roblox.com/docs/reference/engine/classes/BasePart#getMass) 
   * Use [BasePart:GetMass()](https://create.roblox.com/docs/reference/engine/classes/BasePart#GetMass) instead
 - [BasePart.makeJoints](https://create.roblox.com/docs/reference/engine/classes/BasePart#makeJoints) 
-  * Use [BasePart:MakeJoints()](https://create.roblox.com/docs/reference/engine/classes/BasePart#MakeJoints) instead
+- [BasePart:MakeJoints()](https://create.roblox.com/docs/reference/engine/classes/BasePart#MakeJoints)
 - [BasePart.resize](https://create.roblox.com/docs/reference/engine/classes/BasePart#resize) 
    * Use [BasePart:Resize()](https://create.roblox.com/docs/reference/engine/classes/BasePart#Resize) instead
 - [BodyPosition:lastForce](https://create.roblox.com/docs/reference/engine/classes/BodyPosition#lastForce)
@@ -458,9 +461,9 @@ https://create.roblox.com/docs/reference/engine/classes/DebuggerManager#StepOver
 - [Model.ResetOrientationToIdentity](https://create.roblox.com/docs/reference/engine/classes/Model#ResetOrientationToIdentity)
 - [Model.SetIdentityOrientation](hhttps://create.roblox.com/docs/reference/engine/classes/Model#SetIdentityOrientation)
 - [Model.breakJoints](https://create.roblox.com/docs/reference/engine/classes/Model#breakJoints)
-  * Use [Model:BreakJoints()](https://create.roblox.com/docs/reference/engine/classes/Model#BreakJoints) instead
+- [Model:BreakJoints()](https://create.roblox.com/docs/reference/engine/classes/Model#BreakJoints)
 - [Model.makeJoints](https://create.roblox.com/docs/reference/engine/classes/Model#makeJoints)
-  * Use [Model:MakeJoints()](https://create.roblox.com/docs/reference/engine/classes/Model#MakeJoints) instead
+- [Model:MakeJoints()](https://create.roblox.com/docs/reference/engine/classes/Model#MakeJoints)
 - [Model.move](https://create.roblox.com/docs/reference/engine/classes/Model#move)
   * Use [Model:MoveTo()](https://create.roblox.com/docs/reference/engine/classes/Model#MoveTo) instead
 - [Model.moveTo](https://create.roblox.com/docs/reference/engine/classes/Model#moveTo)
@@ -571,6 +574,8 @@ https://create.roblox.com/docs/reference/engine/classes/DebuggerManager#StepOver
 - [VoiceChatInternal.SubscribePauseAll](https://create.roblox.com/docs/reference/engine/classes/VoiceChatInternal#SubscribePauseAll)
 
 ### W
+- [Workspace:BreakJoints()](https://create.roblox.com/docs/reference/engine/classes/Workspace#BreakJoints)
+- [Workspace:MakeJoints()](https://create.roblox.com/docs/reference/engine/classes/Workspace#MakeJoints)
 - [WorldRoot.FindPartOnRay](https://create.roblox.com/docs/reference/engine/classes/WorldRoot#FindPartOnRay)
 
   * Use [WorldRoot:Raycast()](https://create.roblox.com/docs/reference/engine/classes/WorldRoot#Raycast) along with [RaycastParams](https://create.roblox.com/docs/reference/engine/datatypes/RaycastParams) instead
