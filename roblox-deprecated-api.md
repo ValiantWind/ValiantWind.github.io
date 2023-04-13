@@ -70,6 +70,8 @@ https://devforum.roblox.com/t/a-list-of-all-deprecated-classes-enums-events-func
 
 ***
 ### H
+- [Hat](https://create.roblox.com/docs/reference/engine/classes/Hat)
+  * Use [Accessories](https://create.roblox.com/docs/reference/engine/classes/Accessory) instead
 - [Hint](https://create.roblox.com/docs/reference/engine/classes/Hint) 
   * Use [TextLabels](https://create.roblox.com/docs/reference/engine/classes/TextLabel) instead
 - [Hole](https://create.roblox.com/docs/reference/engine/classes/Hole) (No replacement)
