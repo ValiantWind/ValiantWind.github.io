@@ -1,4 +1,4 @@
-*Last Updated March 19th, 2023*
+*Last Updated August 23, 2023*
 
 A list of all the deprecated API, organized by alphabet.
 
@@ -354,6 +354,8 @@ https://devforum.roblox.com/t/a-list-of-all-deprecated-classes-enums-events-func
 
 ### C
 - [Camera.GetLargestCutoffDistance](https://create.roblox.com/docs/reference/engine/classes/Camera#GetLargestCutoffDistance)
+- [Camera.GetPanSpeed](https://create.roblox.com/docs/reference/engine/classes/Camera#GetPanSpeed)
+- [Camera.GetTiltSpeed](https://create.roblox.com/docs/reference/engine/classes/Camera#GetTiltSpeed)
 - [Camera.Interpolate](https://create.roblox.com/docs/reference/engine/classes/Camera#Interpolate) 
 
    * Use [TweenService](https://create.roblox.com/docs/reference/engine/classes/TweenService) to smoothly animate the Camera instead
