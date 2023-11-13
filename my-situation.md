@@ -10,7 +10,9 @@ My current and main IDE for all my projects is [Replit](https://replit.com), mai
 
 Replit was my only option for solid and easy hosting for my web application to fit my needs. I couldn't take advantage of free credits from other services like Digital Ocean and Google Cloud, so Replit was the next best thing.
 
-This all changed when Replit made a recent change to make all web application hosting paid by January 1st, 2024. I relied on Replit to host my most prized project of all time: My private api. And now I couldn't host it. This was not only bad for my workflow, but also several of my other projects that used my API. Now I can't host any of my web applications at all. 
+This all changed when Replit made a recent change to remove their hosting feature "Always On", in favor of their new hosting feature "Deployments" by January 1st, 2024. This wouldn't have been an issue since Always On was paid and I wasn't relying on Always On for hosting, but it came with some side effects including no more custom domains unless you pay for a "deployment".
+
+I relied on Replit to host my most prized project of all time: My private api. And now I couldn't host it. This was not only bad for my workflow, but also several of my other projects that used my API. Now I can't host any of my web applications at all. 
 
 Now there is no where I can host my web application without paying or providing any sort of payment method. This really hurts because I'm no longer able to continue working on my projects. Sure, I could run them locally but that wasn't really ideal as that did not fix the issue with my websites breaking. I could also work on other projects that aren't web applications, but it's not something I can live with as I no longer have the tools to pursue my most prized projects, which were web applications.
 
@@ -24,7 +26,7 @@ But what I am asking is for someone to help me find a way to continue hosting my
 
 I know it is very likely my situation will not get any attention at all, but this is the best I could do without looking like some sort of begger for money.
 
-_But if you want to help or have a solution, please reach out to me on Discord (Username: ValiantWind) or on my other social medias (See below)
+But if you want to help or have a solution, please reach out to me on Discord (Username: ValiantWind) or on my other social medias (See below)
 
 If you took you took your time to read this, thank you. Even if you can't help with my situation, I am thankful you took your time to understand my situation.
 
